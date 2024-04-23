@@ -38,7 +38,7 @@ Our presentation video can be found here.
 - Based on our findings, we would like to suggest to universities to provide opportunities to cater to a broader range of students, allowing them to engage in events they are passionate about.
 # Contributors
 1. @esmondch (Esmond Chan) - Machine Learning, Slides, Presenter
-2. Darren Thia Kok Long - Machine Learning, Slides, Presenter
+2. @darrentkl (Darren Thia) - Machine Learning, Slides, Presenter
 3. Nadathur Ammal Shreya Sudharshan - EDA, Slides, Presenter
 # References
 GeeksforGeeks. (2024, March 21). One hot encoding in machine learning. https://www.geeksforgeeks.org/ml-one-hot-encoding/ 
