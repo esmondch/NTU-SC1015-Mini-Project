@@ -19,3 +19,12 @@ Our presentation video can be found here.
 2. Darren Thia Kok Long
 3. Nadathur Ammal Shreya Sudharshan
 # References
+GeeksforGeeks. (2024, March 21). One hot encoding in machine learning. https://www.geeksforgeeks.org/ml-one-hot-encoding/ 
+
+Mahesh. (2023, June 13). Exploring decision trees, random forest, logistic regression, KNN, linear regression, SVM, RNN... Medium. https://medium.com/@maheshhkanagavell/exploring-decision-trees-random-forest-logistic-regression-knn-linear-regression-svm-rnn-bf52fa94a066 
+
+Shung, K. P. (2020, April 10). Accuracy, precision, recall or F1?. Medium. https://towardsdatascience.com/accuracy-precision-recall-or-f1-331fb37c5cb9 
+
+Tokuç, A. A. (2024, March 18). Splitting a dataset into train and test sets. Baeldung on Computer Science. https://www.baeldung.com/cs/train-test-datasets-ratio 
+
+Wijaya, C. Y. (2023, February 2). Pareto Principle in Machine Learning Development: Work Smarter, not Harder. Non-Brand Data. https://cornellius.substack.com/p/pareto-principle-in-machine-learning 
