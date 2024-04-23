@@ -15,7 +15,12 @@ We cleaned and prepared the dataset for EDA and Machine Learning separately henc
 Our presentation video can be found here.
 # Brief Summary
 1. Exploratory Data Analysis
-2. Machine Learning
+   - Data Cleaning
+   - Univariate Statistics
+   - Univariate Analysis
+   - Modifying Dataset
+   - Bivariate Analysis to Predict Stress Levels
+3. Machine Learning
    - Data Preparation
    - Train Test Split of Dataset
    - Model 1 - Decision Tree Classifier
