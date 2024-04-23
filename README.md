@@ -7,6 +7,7 @@ As we are currently university students, this topic resonates closely with us. T
 # Problem Definition
 - What factors contribute to stress among university students?
 - What are the key factors that are important in student life?
+- Which model would be the best to predict the above two problem?
 # Dataset Explored 
 The dataset used for this project is taken from [here](https://www.kaggle.com/datasets/shivamb/ideal-student-life-survey/).
 
@@ -29,6 +30,7 @@ Our presentation video can be found here.
    - Further Exploration (Other Models)
    - Conclusion on Machine Learning
 # Conclusion
+- Random Forest Classifier is the better model between the two initial models used. KNN performs equally well.
 - Didn't manage to achieve our objective of reducing stress level and increasing student satisfaction.
 - However, we were able to successfully identify the 5 top factors for stress level and student satisfaction respectively.
 - Interestingly, stress and satisfaction are closely linked but it is unclear if the relationship is positive or negative.
