@@ -15,7 +15,7 @@ We cleaned and prepared the dataset for EDA and Machine Learning separately henc
 # Presentation
 Our presentation video can be found here.
 # Brief Summary
-1. Exploratory Data Analysis
+1. [Exploratory Data Analysis](https://github.com/esmondch/NTU-SC1015-Mini-Project/blob/main/Exploratory%20Data%20Analysis.ipynb)
    - Data Cleaning
    - Univariate Statistics
    - Univariate Analysis
