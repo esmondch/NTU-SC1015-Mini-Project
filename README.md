@@ -1,6 +1,9 @@
 # NTU-SC1015-Mini-Project
 This repository contains all the Jupyter Notebooks, datasets, images, video presentations, and the source materials/references we have used and created as part of the Mini Project for SC1015: Introduction to Data Science and AI.
 # Problem Definition
+In our project, "Student's Life and Satisfaction," we delve into the realm of university student experiences and satisfaction levels. We aimed to understand the factors leading to stress and whether it affects satisfaction level.
+- What factors contribute to stress among university students?
+- What are the key factors that are important in student life?
 # Dataset Explored 
 The dataset used for this project is taken from [here](https://www.kaggle.com/datasets/shivamb/ideal-student-life-survey/).
 
