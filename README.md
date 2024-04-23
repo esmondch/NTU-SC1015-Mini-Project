@@ -3,6 +3,7 @@ This repository contains all the Jupyter Notebooks, datasets, images, video pres
 # Problem Definition
 # Dataset Explored 
 The dataset used for this project is taken from [here](https://www.kaggle.com/datasets/shivamb/ideal-student-life-survey/).
+We cleaned and prepared the dataset for EDA and Machine Learning separately hence, there is no "cleaned dataset". Refer to respective notebook to see how we cleaned and prepared the dataset for each use.
 # Presentation
 # Brief Summary
 # Conclusion
