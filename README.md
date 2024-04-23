@@ -7,4 +7,6 @@ This repository contains all the Jupyter Notebooks, datasets, images, video pres
 # Conclusion
 # Contributors
 1. @esmondch (Esmond Chan)
+2. Darren Thia Kok Long
+3. Nadathur Ammal Shreya Sudharshan
 # References
