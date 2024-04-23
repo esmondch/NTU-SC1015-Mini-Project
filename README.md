@@ -6,6 +6,7 @@ The dataset used for this project is taken from [here](https://www.kaggle.com/da
 
 We cleaned and prepared the dataset for EDA and Machine Learning separately hence, there is no "cleaned dataset". Refer to respective notebook to see how we cleaned and prepared the dataset for each use.
 # Presentation
+Our presentation video can be found here.
 # Brief Summary
 # Conclusion
 # Contributors
