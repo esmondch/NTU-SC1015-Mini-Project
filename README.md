@@ -9,11 +9,11 @@ We cleaned and prepared the dataset for EDA and Machine Learning separately henc
 Our presentation video can be found here.
 # Brief Summary
 # Conclusion
-•    Unable to achieve our objective of reducing stress level and increasing student satisfaction.
-•    However, we were able to successfully identify the 5 top factors for stress level and student satisfaction respectively.
-•    Interestingly, stress and satisfaction are closely linked but it is unclear if the relationship is positive or negative.
-•    According to our feature importance analysis, student volunteering in events have high influence in both stress and student satisfaction.
-•    Based on our findings, we would like to suggest to universities to provide opportunities to cater to a broader range of students, allowing them to engage in events they are passionate about.
+- Didn't manage to achieve our objective of reducing stress level and increasing student satisfaction.
+- However, we were able to successfully identify the 5 top factors for stress level and student satisfaction respectively.
+- Interestingly, stress and satisfaction are closely linked but it is unclear if the relationship is positive or negative.
+- According to our feature importance analysis, student volunteering in events have high influence in both stress and student satisfaction.
+- Based on our findings, we would like to suggest to universities to provide opportunities to cater to a broader range of students, allowing them to engage in events they are passionate about.
 # Contributors
 1. @esmondch (Esmond Chan)
 2. Darren Thia Kok Long
