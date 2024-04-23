@@ -36,6 +36,7 @@ Our presentation video can be found here.
 - Interestingly, stress and satisfaction are closely linked but it is unclear if the relationship is positive or negative.
 - According to our feature importance analysis, student volunteering in events have high influence in both stress and student satisfaction.
 - Based on our findings, we would like to suggest to universities to provide opportunities to cater to a broader range of students, allowing them to engage in events they are passionate about.
+- Additionally, the feature importance provide insights which sets the path for future exploration and intervention strategies.
 # Contributors
 1. @esmondch (Esmond Chan) - Machine Learning, Slides, Presenter
 2. @darrentkl (Darren Thia) - Machine Learning, Slides, Presenter
