@@ -43,6 +43,8 @@ Our presentation video can be found here.
 # References
 GeeksforGeeks. (2024, March 21). One hot encoding in machine learning. https://www.geeksforgeeks.org/ml-one-hot-encoding/ 
 
+guest_blog. (2023, July 21). 12 univariate data visualizations with illustrations in Python. Analytics Vidhya. https://www.analyticsvidhya.com/blog/2020/07/univariate-analysis-visualization-with-illustrations-in-python/ 
+
 Mahesh. (2023, June 13). Exploring decision trees, random forest, logistic regression, KNN, linear regression, SVM, RNN... Medium. https://medium.com/@maheshhkanagavell/exploring-decision-trees-random-forest-logistic-regression-knn-linear-regression-svm-rnn-bf52fa94a066 
 
 Shung, K. P. (2020, April 10). Accuracy, precision, recall or F1?. Medium. https://towardsdatascience.com/accuracy-precision-recall-or-f1-331fb37c5cb9 
