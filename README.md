@@ -21,7 +21,7 @@ Our presentation video can be found here.
    - Univariate Analysis
    - Modifying Dataset
    - Bivariate Analysis to Predict Stress Levels
-3. Machine Learning
+3. [Machine Learning](https://github.com/esmondch/NTU-SC1015-Mini-Project/blob/main/Machine%20Learning.ipynb)
    - Data Preparation
    - Train Test Split of Dataset
    - Model 1 - Decision Tree Classifier
