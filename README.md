@@ -13,7 +13,7 @@ The dataset used for this project is taken from [here](https://www.kaggle.com/da
 
 We cleaned and prepared the dataset for EDA and Machine Learning separately hence, there is no "cleaned dataset". Refer to respective notebook to see how we cleaned and prepared the dataset for each use.
 # Presentation
-Our presentation video can be found here.
+Our presentation video can be found [here](https://www.youtube.com/watch?v=McWwfiqxBis).
 # Brief Summary
 1. [Exploratory Data Analysis](https://github.com/esmondch/NTU-SC1015-Mini-Project/blob/main/Exploratory%20Data%20Analysis.ipynb)
    - Data Cleaning
