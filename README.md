@@ -8,6 +8,15 @@ We cleaned and prepared the dataset for EDA and Machine Learning separately henc
 # Presentation
 Our presentation video can be found here.
 # Brief Summary
+1. Exploratory Data Analysis
+2. Machine Learning
+   - Data Preparation
+   - Train Test Split of Dataset
+   - Model 1 - Decision Tree Classifier
+   - Model 2 - Random Forest Classifier
+   - Results Obtained (Confusion Matrix & Classification Report)
+   - Further Exploration (Other Models)
+   - Conclusion on Machine Learning
 # Conclusion
 - Didn't manage to achieve our objective of reducing stress level and increasing student satisfaction.
 - However, we were able to successfully identify the 5 top factors for stress level and student satisfaction respectively.
